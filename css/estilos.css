@@ -1,0 +1,39 @@
+.contenedor{
+	position: relative !important;
+	padding: 10px;
+	height: 500px;
+	clear: both;
+	overflow: hidden;
+	left: 10% !important;
+
+}
+.publicacion{
+	position: absolute;
+	width: 95%;
+	top: 0;
+}
+#text2:target{
+	display: block !important;
+	background: white;
+}
+#text3:target{
+	display: block !important;
+	background: white;
+}
+#text4:target{
+	display: block !important;
+	background: white;
+}
+#text5:target{
+	display: block !important;
+	background: white;
+}
+footer{
+	width: 100%;
+	background-color: #2980b9;
+	color: white;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	border-radius: 5px;
+}
